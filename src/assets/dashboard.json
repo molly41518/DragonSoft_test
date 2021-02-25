@@ -1,0 +1,106 @@
+{
+  "msg": ["ok"],
+  "results": {
+    "agentPassStat": {
+      "total": 496,
+      "passed": 219,
+      "failed": 262,
+      "other": 15,
+      "ratio": {
+        "passed": 0.4415322580645161,
+        "failed": 0.5282258064516129,
+        "other": 0.03024193548387097
+      }
+    },
+    "agentAuditInfo": {
+      "Account Policy": [
+        367,
+        169,
+        66,
+        1927
+      ],
+      "Computer Settings": [
+        61865,
+        1198,
+        3307,
+        6933
+      ],
+      "User Settings": [
+        2262,
+        0,
+        257,
+        269
+      ],
+      "Firewall Settings": [
+        7123,
+        56,
+        690,
+        1527
+      ],
+      "Internet Explorer": [
+        31120,
+        260,
+        3647,
+        8091
+      ],
+      "Google Chrome": [
+        4994,
+        73,
+        640,
+        2376
+      ],
+      "Mozilla Firefox": [
+        1406,
+        2,
+        464,
+        8580
+      ],
+      "Microsoft Edge": [
+        60,
+        0,
+        120,
+        0
+      ],
+      "Internet Information Services": [
+        111,
+        59,
+        254,
+        0
+      ],
+      "DC Server": [
+        142,
+        32,
+        75,
+        0
+      ],
+      "File Server": [
+        592,
+        8,
+        36,
+        0
+      ],
+      "Web Server": [
+        605,
+        9,
+        7,
+        0
+      ],
+      "DNS Server": [
+        595,
+        8,
+        10,
+        0
+      ]
+    },
+    "agentScanInfo": {
+      "3": 15,
+      "7": 15,
+      "15": 17,
+      "30": 17
+    },
+    "userId": "332eb940-8a35-11e8-a592-59120224c2c8",
+    "createdAt": "2021-02-17T02:04:38.119Z",
+    "updatedAt": "2021-02-17T02:41:57.617Z",
+    "objectId": "7d3183b0-70c4-11eb-a95a-1fc9745784de"
+  }
+}
